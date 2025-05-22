@@ -11,13 +11,18 @@ Proporcionar uma experiência prática de consultoria em tecnologia, abordando a
  Integrante 3
  Integrante 4
 
-📁 Entregáveis do Projeto
+📁 Entregáveis do Projeto:
+
  Mapa Mental: https://drive.google.com/drive/folders/1SJAlnDwK9ykZi01ZzDql2UsOSG0mSRMi?usp=drive_link
+
  Podcast: [Disponível em breve]
+
  Quiz Interativo: [Disponível em breve]
 
  🧩 Descritivo da Consultoria
+
  A consultoria teve como escopo a análise técnica do servidor bmep967.neoenergia.net, utilizado pela Neoenergia para operações críticas via SFTP (Secure File Transfer Protocol).
+
 🔧 Especificações Técnicas:
 
     Sistema Operacional: UNIX
@@ -26,6 +31,7 @@ Proporcionar uma experiência prática de consultoria em tecnologia, abordando a
     Armazenamento: HD de 500GB (~468GB utilizáveis)
 
 📊 Resultados da Análise:
+
 • CPU:
 
     Utilização média baixa (~30% em pico)
@@ -45,6 +51,7 @@ Proporcionar uma experiência prática de consultoria em tecnologia, abordando a
     Status: Em risco crítico
 
 ⚠️ Problema Identificado
+
 O HD do servidor encontra-se em estado crítico de ocupação, o que pode levar a falhas de upload, indisponibilidade do serviço SFTP, perda de logs e possíveis travamentos.
 
 ✅ Soluções Propostas
