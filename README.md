@@ -2,13 +2,17 @@
 Este repositório documenta um projeto de consultoria realizado para a Neoenergia, uma empresa privada do setor elétrico brasileiro.
 
 🎯 Objetivo do Projeto
+
 Proporcionar uma experiência prática de consultoria em tecnologia, abordando a análise, avaliação e proposta de modernização de um servidor utilizado para transferência segura de arquivos (SFTP). O foco está na aplicação de conhecimentos da disciplina de Arquitetura de Computadores.
 
 👥 Membros da Equipe
 
  Integrante 1
+ 
  Integrante 2
+ 
  Integrante 3
+ 
  Integrante 4
 
 📁 Entregáveis do Projeto:
