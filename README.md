@@ -7,19 +7,21 @@ Proporcionar uma experiência prática de consultoria em tecnologia, abordando a
 
 👥 Membros da Equipe
 
- Integrante 1
+ Integrante 1 Erick Nascimento (https://github.com/ErickeRochaNascimento/Analise-Tecnica-e-Proposta-de-Modernizao-do-Servidor-SFTP-para-Neoenergia)
  
- Integrante 2
+ Integrante 2 Jose Raimundo da Hora (https://github.com/Raymond-slayer/Arquitetura.git)
  
- Integrante 3
+ Integrante 3 João Vitor Ferreira da Silva (http://github.com/v1t1nhobr/Analise-Tecnica-e-Proposta-Modernizacao-Servidor-SFTP-Neoenergia)
  
- Integrante 4
+ Integrante 4 Daniel Moreira (https://github.com/Daniel-mgs/Analise-Tecnica-e-Proposta-Modernizacao-Servidor-SFTP-Neoenergia)
 
+ Integrante 5 
+ 
 📁 Entregáveis do Projeto:
 
  Mapa Mental: https://drive.google.com/drive/folders/1SJAlnDwK9ykZi01ZzDql2UsOSG0mSRMi?usp=drive_link
 
- Podcast: [Disponível em breve]
+ Podcast: https://open.spotify.com/episode/7msh6v5PCn7zZob0YEfYlW?si=VitDowVXR5uCkNU70OOEEA
 
  Quiz Interativo: [Disponível em breve]
 
