@@ -23,7 +23,7 @@ Proporcionar uma experiência prática de consultoria em tecnologia, abordando a
 
  Podcast: https://open.spotify.com/episode/7msh6v5PCn7zZob0YEfYlW?si=VitDowVXR5uCkNU70OOEEA
 
- Quiz Interativo: [Disponível em breve]
+ Quiz Interativo: https://kahoot.it/solo/?quizId=7d04de89-ac9d-46d9-a6c8-289b5863d4e4
 
  🧩 Descritivo da Consultoria
 
