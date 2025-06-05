@@ -15,7 +15,7 @@ Proporcionar uma experiência prática de consultoria em tecnologia, abordando a
  
  Integrante 4 Daniel Moreira (https://github.com/Daniel-mgs/Analise-Tecnica-e-Proposta-Modernizacao-Servidor-SFTP-Neoenergia)
 
- Integrante 5 
+ Integrante 5 Raul Regis (https://github.com/Raul-Regis/Analise-Tecnica-e-Proposta-de-Modernizao-do-Servi-o-SFTP-para-Neoenergia)
  
 📁 Entregáveis do Projeto:
 
