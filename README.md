@@ -54,28 +54,47 @@ Uso de ~90% das páginas de memória
 Status: Normal (com necessidade de monitoramento)
 
 • Disco (HD):
+
 Uso de 95.5% (~447GB usados)
+
 Apenas ~20,5GB (~4,5%) disponíveis
+
 Status: Em risco crítico
+
 ⚠️ Problema Identificado
+
 O HD do servidor encontra-se em estado crítico de ocupação, o que pode levar a falhas de upload, indisponibilidade do serviço SFTP, perda de logs e possíveis travamentos.
 
 ## ✅ Soluções Propostas
+
 🔹 1. Implementação de SSD NVME M.2 (1TB)
+
 Armazenamento rápido e confiável
+
 SSD para aplicação SFTP; HD mantido para o sistema
+
 Custo estimado: R$ 600 a R$ 900 (único)
+
 🔹 2. Migração para Armazenamento em Nuvem
+
 Uso de Azure, Google Cloud ou AWS S3
+
 Alta escalabilidade, disponibilidade e automação
+
 Custo estimado mensal: R$ 1300 a R$ 1400
+
 🔹 3. Modelo Híbrido (Local + Nuvem)
+
 Dados recentes no HD/SSD local; backups na nuvem
+
 Ferramentas como Rclone ou S3FS para integração
+
 Custo estimado mensal: R$ 700 a R$ 1200
+
 ## 📌 Recomendação Final: Adoção do Modelo Híbrido, combinando desempenho local com escalabilidade e segurança da nuvem.
 
 ## 📝 Feedback do Cliente
+
 Feedback pendente.
 
 Este README.md atende aos critérios da disciplina para a Tarefa 1 – Repositório GitHub, incluindo: objetivo, descrição técnica, entregáveis, equipe e proposta de solução com análise crítica.
