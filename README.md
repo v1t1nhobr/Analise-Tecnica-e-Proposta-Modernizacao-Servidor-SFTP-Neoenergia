@@ -26,19 +26,33 @@ Quiz Interativo: https://kahoot.it/solo/?quizId=7d04de89-ac9d-46d9-a6c8-289b5863
 A consultoria teve como escopo a análise técnica do servidor bmep967.neoenergia.net, utilizado pela Neoenergia para operações críticas via SFTP (Secure File Transfer Protocol).
 
 ## 🔧 Especificações Técnicas:
+
 Sistema Operacional: UNIX
+
 Processador: Intel Xeon (x64)
+
 Memória RAM: 32GB DDR4
+
 Armazenamento: HD de 500GB (~468GB utilizáveis)
+
 ## 📊 Resultados da Análise:
+
 • CPU:
+
 Utilização média baixa (~30% em pico)
+
 Atividade mais intensa em horário comercial
+
 Status: Normal
+
 • Memória:
+
 Uso de ~90% das páginas de memória
+
 ~10% de memória real disponível para aplicações
+
 Status: Normal (com necessidade de monitoramento)
+
 • Disco (HD):
 Uso de 95.5% (~447GB usados)
 Apenas ~20,5GB (~4,5%) disponíveis
